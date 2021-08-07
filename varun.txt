@@ -1,0 +1,16 @@
+<span id="a">root@varun</span>:<span id="b">~</span><span id="c">$</span> cd Varun's Portfolio/about_me
+<span id="a">root@varun-Varun's Portfolio/about_me</span>:<span id="b">~</span><span id="c">$</span> cat varun.txt<br /><br />
+> Hey There! I am Varun Herlekar.
+> I am a "<span id="k">Freelancer, WordPress Developer, Digital Marketer, Cyber Security Researcher</span>".
+> I am currently pursuing my Bachelor's in Computer Engineering from Government College Of Engineering, Yavatmal.
+
+<p>> I’m with broad technical skill-set, very strong attention to detail, and 2 years of experience in WordPress Development and Digital Marketing.</p>
+
+> You can know more about me on my <a href="https://varunherlekar.com/portfolio"> portfolio here</a>.
+> You can visit my other profiles, here: <a href="https://www.linkedin.com/in/varunherlekar/">LinkedIn,</a> <a href="https://github.com/varunherlekar">GitHub,</a> <a href="https://dribbble.com/varunherlekar">Dribbble</a> and <a href="https://instagram.com/varunherlekar">Instagram</a>.</p>
+
+> If you would like to get in touch with me feel free to send me an email at <a href="mailto:hello@varunherlekar.com">hello@varunherlekar.com</a>.
+<Mbr>
+<span id="a"> Thank you! :) </span>
+<br>
+<span id="a">root@varun-Varun's Portfolio/about_me</span>:<span id="b">~</span><span id="c">$</span> exit 
